@@ -2,7 +2,7 @@
 
 It's just.... So much better than youtube (No offense)
 
-TODO Tree: 
+TODO: 
 Nav bar (Complete) 
 Sliver App Bar (in progress) 
 
