@@ -13,7 +13,7 @@ class User {
 }
 
 const User currentUser = User(
-  username: 'Jana',
+  username: 'Jana ',
   profileImageUrl:
       'https://tse1.mm.bing.net/th?id=OIP.AeKt95I4B6dIY-BX687_jgHaE8&pid=Api&P=0&h=220',
   subscribers: '100B',
